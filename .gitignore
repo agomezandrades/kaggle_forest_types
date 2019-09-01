@@ -102,3 +102,13 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# Temporary and private files
+Grid_Search.xlsx
+/model.ipynb
+/submission.csv
+
+# Datasets
+test.csv
+train.csv
+sample_submission.csv
